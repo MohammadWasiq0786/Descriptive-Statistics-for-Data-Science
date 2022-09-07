@@ -1,4 +1,5 @@
-# Descriptive Statistics for Data Science
+# [Descriptive Statistics for Data Science](https://github.com/MohammadWasiq0786/Descriptive-Statistics-for-Data-Science/blob/main/Descriptive%20Statistics%20for%20Data%20Science.pdf)
+
 In this file I have discussed on the foloowing topics :
 
 ## Unit - I
