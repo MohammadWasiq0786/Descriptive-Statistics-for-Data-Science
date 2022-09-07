@@ -3,7 +3,7 @@ In this file I have discussed on the foloowing topics :
 
 ## Unit - I
 
-** Graphs :**
+**Graphs :**
 
 1. Line Diagram
 2. Bar Diagram
