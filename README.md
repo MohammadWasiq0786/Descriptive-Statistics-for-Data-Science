@@ -1,9 +1,10 @@
 # Descriptive-Statistics-for-Data-Science
-In this file I discussed on the foloowing topics :
+In this file I have discussed on the foloowing topics :
 
 ## Unit - I
 
-## Graphs :
+** Graphs :**
+
 1. Line Diagram
 2. Bar Diagram
 3. Histogram
@@ -12,24 +13,27 @@ In this file I discussed on the foloowing topics :
 6. Box Plot
 7. Stem and Leaf, dot plot
 
-##  Measures of Central Tendency
+**Measures of Central Tendency**
+
 1. Arithmetic Mean
 2. Median
 3. Mode
 
-### Variability
+**Variability**
+
 1. Range
 2. Quartile Deviation
 3. Mean Deviation
 4. Variance
 5. Standard Deviation
 
-#### Skewness
-#### Kurtosis
+**Skewness**
+**Kurtosis**
 
 ## Unit - II
 
-## Measures of Association : 
+**Measures of Association**
+
 1. Correlation
 2. Scatter Plot
 3. Karl Pearsons’s Correlation coefficient
@@ -37,15 +41,16 @@ In this file I discussed on the foloowing topics :
 5.Partial Correlation 
 6. Multiple Correlations
 
-### Regression analysis
+**Regression analysis**
+
 * Covariance Matrix
 * Correlation Matrix
 
-#### Attributes
+**Attributes**
 
 ## Unit III
 
-## Hypothesis Testing :
+**Hypothesis Testing :**
 * Formulation of Statistical Hypothesis
 
 1. Z-Test
@@ -57,7 +62,7 @@ In this file I discussed on the foloowing topics :
 * Independent Sample t-test
 * Paired Sample t-test
 
-3. $\chi^2$ test
+3. $\chi^2$- test
 * Goodness of Fit
 * test of 
 * Test of Independence of Attributes
@@ -66,10 +71,11 @@ In this file I discussed on the foloowing topics :
 Confidence Limits and Confidence Intervals.
 
 ## Unit IV
-## ANOVA
+**ANOVA**
+
 1. One way ANOVA
 2. Two way ANOVA
 
-## Non-Parametric Tests
+**Non-Parametric Tests**
 1. Sign Test
 2.  Mann-Whiney U Test (Rank Sum Test)
