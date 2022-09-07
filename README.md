@@ -1,4 +1,4 @@
-# Descriptive-Statistics-for-Data-Science
+# Descriptive Statistics for Data Science
 In this file I have discussed on the foloowing topics :
 
 ## Unit - I
