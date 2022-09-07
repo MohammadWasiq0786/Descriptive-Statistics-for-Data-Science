@@ -1,5 +1,11 @@
 # [Descriptive Statistics for Data Science](https://github.com/MohammadWasiq0786/Descriptive-Statistics-for-Data-Science/blob/main/Descriptive%20Statistics%20for%20Data%20Science.pdf)
 
+I'm very very thankful to 
+
+[**Professor Aquil Ahmad**](https://www.amu.ac.in/faculty/statistics-and-operations-research/aquil-ahmed)
+<br>**Department of Statistics and Operation Research**
+<br>**Aligarh Muslim University , Aligarh(202002)**
+
 In this file I have discussed on the foloowing topics :
 
 ## Unit - I
