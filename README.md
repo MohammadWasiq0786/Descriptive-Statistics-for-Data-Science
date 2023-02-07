@@ -1,6 +1,6 @@
 # [Descriptive Statistics for Data Science (DSM- 1001)](https://github.com/MohammadWasiq0786/Descriptive-Statistics-for-Data-Science/blob/main/Descriptive%20Statistics%20for%20Data%20Science.pdf)
 
-![image](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/amu_logo_.png)
+![image](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/amu_logo.png)
 
 I'm very very thankful to 
 
